@@ -1,0 +1,7 @@
+.App {
+  background: lightcoral;
+  display: flex;
+  height: 80vh;
+  width: 90vh;
+  flex-direction: row;
+}
